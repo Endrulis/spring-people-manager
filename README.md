@@ -8,7 +8,6 @@ Spring People Manager is a simple CRUD application built using Spring, React, My
 - Add a new person
 - Edit an existing person
 - Delete a person
-- Search for a person by name
 
 ## Technologies Used
 
